@@ -1,0 +1,13 @@
+a {
+    font-size: 30px;
+    color: blue;
+}
+
+.align-center {
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: cornflowerblue; 
+}
